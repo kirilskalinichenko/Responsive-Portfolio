@@ -1,0 +1,1 @@
+<?php include_once("Kalinichenko Hmwrk_2 Prt_1/index.html"); ?>
