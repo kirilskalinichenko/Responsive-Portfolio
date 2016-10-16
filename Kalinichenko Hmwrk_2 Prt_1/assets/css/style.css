@@ -251,18 +251,18 @@ input[type=submit] {
 	nav {
 		float: none;
 		width: 100%;
+		text-align: center;
 	}
 	nav a {
 		width: 195px;
 		margin: 5px;
+		text-align: center;
 	}
 	.main-section {
-		margin: 40px auto;
-		margin-left: 40px;
-		margin-top: 40px;
 		width: 100%;
 		max-width: 550px;
 	}
-
-	
+	.clearfix {
+		overflow: auto;
+	}
 }
